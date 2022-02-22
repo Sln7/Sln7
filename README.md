@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Solano</h1>
-<h3 align="center">Fullstack Developer, with focus on ecommerce and marketplaces</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm Solano, fullstack developer work with Laravel and Vue.js, focus on ecommerce and marketplace</h3>
 
 I’m currently learning **Golang** <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://go.dev/images/gophers/pilot-bust.svg" alt="css3" width="60" height=""/> </a>
 
@@ -15,6 +15,11 @@ I’m currently learning **Golang** <a href="https://www.w3schools.com/css/" tar
 <br>
 
 <h2 align="center"> Fell free to send a message :) </h2>
+<p align="center">
+<a href="https://linkedin.com/in/https://br.linkedin.com/in/solano-martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/solano-martins" height="30" width="40" /></a>
+</p>
+<br>
+<br>
 
 <p align="center"><a href="https://app.daily.dev/Sln77"><img src="https://api.daily.dev/devcards/5bd2fbf34f5445b2b4f423b1037d200b.png?r=e95" width="200" alt="Solano Matheus Martins's Dev Card"/></a>
 
