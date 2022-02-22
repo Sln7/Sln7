@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solano</h1>
-<h3 align="center">Fullstack Developer, with focous on ecommerce and marketplaces</h3>
+<h3 align="center">Fullstack Developer, with focus on ecommerce and marketplaces</h3>
 
 I’m currently learning **Golang** <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://go.dev/images/gophers/pilot-bust.svg" alt="css3" width="60" height=""/> </a>
 
