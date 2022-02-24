@@ -20,7 +20,6 @@ I’m currently learning **Golang** <a href="https://www.w3schools.com/css/" tar
 </p>
 <br>
 <br>
-
-<a href="https://app.daily.dev/Sln77"><img src="https://api.daily.dev/devcards/5bd2fbf34f5445b2b4f423b1037d200b.png?r=qn2" width="400" alt="Solano Matheus Martins's Dev Card"/></a>
+<p align="center"><a href="https://app.daily.dev/Sln77"><img src="https://api.daily.dev/devcards/5bd2fbf34f5445b2b4f423b1037d200b.png?r=e95" width="200" alt="Solano Matheus Martins's Dev Card"/></a></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sln7&label=Profile%20views&color=0e75b6&style=flat" alt="sln7" /> </p>
