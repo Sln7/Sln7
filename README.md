@@ -16,7 +16,7 @@ I’m currently learning **Golang** <a href="https://www.w3schools.com/css/" tar
 
 <h2 align="center"> Fell free to send a message :) </h2>
 <p align="center">
-<a href="https://linkedin.com/in/https://br.linkedin.com/in/solano-martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/solano-martins" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/solano-martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/solano-martins" height="30" width="40" /></a>
 </p>
 <br>
 <br>
