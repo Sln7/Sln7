@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm Solano, fullstack developer work with Laravel and Vue.js, focus on ecommerce and marketplace</h3>
 
-I’m currently learning **Golang** <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://go.dev/images/gophers/pilot-bust.svg" alt="css3" width="60" height=""/> </a>
+I’m currently learning **Golang** <a target="_blank"> <img src="https://go.dev/images/gophers/pilot-bust.svg" alt="css3" width="60" height=""/> </a>
 
 <h2>Main stack</h2>
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
