@@ -1,28 +1,90 @@
-[![An image of @sln77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sln77)](https://holopin.io/@sln77)
+<div align="center">
+  <a href="https://holopin.io/@sln77">
+    <img src="https://holopin.me/sln77" alt="Holopin badges" />
+  </a>
+</div>
 
-<hr>
-<h3 align="center">I'm Solano, fullstack developer work with Laravel, Go and Javascript</h3>
+<h1 align="center">Olá! Eu sou o Solano 👋</h1>
+<h3 align="center">Senior Full-Stack Developer & Software Architect</h3>
 
-<h2>Main stack</h2>
-<a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<h2 align="left">Other known tools</h2>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank"><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-I’m currently learning **Golang** <a target="_blank"> <img src="https://go.dev/images/gophers/pilot-bust.svg" alt="css3" width="60" height=""/> </a>
-
-
-<br>
-
-<h2 align="center"> Fell free to send a message :) </h2>
 <p align="center">
-<a href="https://linkedin.com/in/solano-martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/solano-martins" height="30" width="40" /></a>
+  Desenvolvedor apaixonado por arquiteturas de software minimalistas e cirúrgicas. Trabalho criando soluções escaláveis, explorando orquestração de IA e gerenciando infraestrutura de forma eficiente.
 </p>
-<br>
-<br>
-<p align="center"><a href="https://app.daily.dev/Sln77"><img src="https://api.daily.dev/devcards/5bd2fbf34f5445b2b4f423b1037d200b.png?r=e95" width="200" alt="Solano Matheus Martins's Dev Card"/></a></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sln7&label=Profile%20views&color=0e75b6&style=flat" alt="sln7" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/solano-martins" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Sobre
+
+- 🏢 Trabalho focado na criação de plataformas SaaS.
+- ⚙️ Defensor de infraestruturas self-hosted ágeis e eficientes utilizando ferramentas como **Coolify** e **Docker**.
+- 🤖 Tenho explorado ativamente **orquestração de IA, prompt engineering** e o uso de LLMs para automação e auditoria de código.
+
+---
+
+### 🛠️ Minha Stack Principal
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40" />
+      <br>Golang
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
+      <br>Vue.js
+    </td>
+  </tr>
+</table>
+
+### 🧰 Banco de Dados, Infraestrutura e Outras Ferramentas
+
+<p align="left">
+  <!-- Infra & DB -->
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-webservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- Core Web & Tools -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</p>
+
+<br>
+
+<div align="center">
+  <a href="https://app.daily.dev/Sln77">
+    <img src="https://api.daily.dev/devcards/5bd2fbf34f5445b2b4f423b1037d200b.png?r=e95" width="250" alt="Solano's Dev Card"/>
+  </a>
+</div>
+
+<br>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sln7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
